@@ -1,11 +1,4 @@
-import {
-  colourwheel,
-  fileIcon,
-  ai,
-  logoShirt,
-  stylishShirt,
-  filepicker,
-} from "../assets";
+import { colourwheel, logoShirt, stylishShirt, filepicker } from "../assets";
 
 export const EditorTabs = [
   {

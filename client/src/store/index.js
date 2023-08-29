@@ -5,7 +5,7 @@ const state = proxy({
   isLogoTexture: true,
   isFullTexture: false,
   logoDecal: "./nikelogo.png",
-  fullDecal: "./new1.png",
+  fullDecal: "./nike-header.png",
   move: false,
 });
 export default state;
